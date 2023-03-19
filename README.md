@@ -1,6 +1,10 @@
 # HCSR04 Distance Measurement with 7 Segment Display
 This project uses an HCSR04 ultrasonic sensor to measure distance and displays the distance on a 7 segment display. The 7 segment display shows the last digit of the measured distance (x % 10).
 
+
+https://user-images.githubusercontent.com/88224304/226205778-16afab34-b48b-4740-9bba-37bbb3f2df1f.mp4
+
+
 ## Getting Started
 To get started with this project, you will need the following hardware and software components:
 - STM32 microcontroller (tested on STM32F407G-DISC1)
